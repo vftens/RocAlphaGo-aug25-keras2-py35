@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61eee308-4b99-4841-8ec4-13ede4b30dcf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aCQV0rpjOGVnvzuj0KbgqLyksk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jython-2.7.2.jar!/" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fesva.Main" />
+      <module name="greedy_player_gtp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fesva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61eee308-4b99-4841-8ec4-13ede4b30dcf" name="Default Changelist" comment="" />
+      <created>1586197492191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586197492191</updated>
+      <workItem from="1586197498326" duration="1757000" />
+      <workItem from="1586237138213" duration="597000" />
+      <workItem from="1586254057395" duration="2246000" />
+      <workItem from="1586256673259" duration="922000" />
+      <workItem from="1586334353892" duration="711000" />
+      <workItem from="1586413311121" duration="389000" />
+      <workItem from="1586435619163" duration="405000" />
+      <workItem from="1586498733093" duration="586000" />
+      <workItem from="1586579370348" duration="689000" />
+      <workItem from="1586758158176" duration="552000" />
+      <workItem from="1586840191827" duration="522000" />
+      <workItem from="1586844602215" duration="587000" />
+      <workItem from="1586885081696" duration="283000" />
+      <workItem from="1586921688069" duration="594000" />
+      <workItem from="1587013481330" duration="599000" />
+      <workItem from="1587054160929" duration="599000" />
+      <workItem from="1587131066081" duration="595000" />
+      <workItem from="1587187384709" duration="567000" />
+      <workItem from="1587319134348" duration="602000" />
+      <workItem from="1587358333256" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="236" key="FileChooserDialogImpl" timestamp="1586198956358">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="346" y="236" key="FileChooserDialogImpl/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586198956358" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1586256640166">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586256640166" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1586256640166">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586256640166" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1586256640166">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586256640166" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1586256640166">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586256640166" />
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom" timestamp="1586256640160">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586256640160" />
+    <state width="1237" height="325" key="GridCell.Tab.1.center" timestamp="1586256640160">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.center/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586256640160" />
+    <state width="1237" height="325" key="GridCell.Tab.1.left" timestamp="1586256640159">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.left/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586256640159" />
+    <state width="1237" height="325" key="GridCell.Tab.1.right" timestamp="1586256640160">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.right/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586256640160" />
+    <state x="120" y="69" key="SettingsEditor" timestamp="1586255247113">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="120" y="69" key="SettingsEditor/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586255247113" />
+    <state x="348" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1586256688251">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="348" y="319" key="com.intellij.ide.util.TipDialog/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1586256688251" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/greedy_player_gtp$Main.ic" NAME="Main Coverage Results" MODIFIED="1586255169736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.fesva.*</FILTER>
+    </SUITE>
+  </component>
+</project>
